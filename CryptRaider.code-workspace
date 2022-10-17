@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "CryptRaider",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\Epic\\Unreal Engine\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"*.rh": "cpp",
+			"*.ipp": "cpp",
+			"atomic": "cpp",
+			"bitset": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
